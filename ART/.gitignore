@@ -1,0 +1,38 @@
+# project specific
+*.log
+
+# python files
+*.py[cod]
+*.pkl
+
+# VIM stuff
+.swp
+*.swo
+
+
+# Ipython notebook 
+ipynb/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# bkups and temps
+bkup/
+*.bkup*
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
